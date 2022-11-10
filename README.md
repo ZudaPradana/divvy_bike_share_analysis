@@ -22,7 +22,7 @@ Pustaka Python untuk digunakan untuk analisis:
 
 Pandas
 
-    ip install pandas
+    pip install pandas
 
 Plotly
 
@@ -38,6 +38,6 @@ Plotly
 ## Authors
 
   - **Zuda Pradana Putra**
-    [Github](https://github.com/ZudaPradana)
-    [LinkedIn](https://www.linkedin.com/in/callmezydd/)
-    [Medium](https://callmezydd.medium.com/)
+    - [Github](https://github.com/ZudaPradana)
+    - [LinkedIn](https://www.linkedin.com/in/callmezydd/)
+    - [Medium](https://callmezydd.medium.com/)
